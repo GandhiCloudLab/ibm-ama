@@ -4,13 +4,13 @@ IBM Application Modernization Accelerator helps you to discover, plan, prioritiz
 
 In this documentation, let us explore about AMA in detail.
 
-## Discover
+## 1. Discover
 
 Discovery tool can be downloaded from the AMA and it can be used to asses your on-premises workloads, for the cloud migration. 
 
 It can evaluates applications based on business needs, identify create the  application content inventory.
 
-### Create Workspace
+### 1.1. Create Workspace
 
 1. Click on the `Create workspace` button to open a window to Create new workspace.
 
@@ -25,7 +25,7 @@ It can evaluates applications based on business needs, identify create the  appl
 Workspace is created.
 <img src="images/a-11-workspace-3.png">
 
-### Download Discovery tool
+### 1.2. Download Discovery tool
 
 1. Click on the above created workspace to open a discovery tool page.
 
@@ -37,18 +37,18 @@ Workspace is created.
 
 <img src="images/a-12-discovery-2.png">
 
-### Execute the discovery tool 
+### 1.3. Execute the discovery tool 
 
 1.  Execute the discovery tool on your workload and get the discovery results.
 
 
-### Upload Discovery results
+### 1.4. Upload Discovery results
 
 1. Click on `Upload results` button and upload all discovery results in the AMA
 
 <img src="images/a-13-upload-results.png">
 
-## Visualize
+## 2. Visualize
 
 1. Open the workspace.
 
@@ -76,10 +76,9 @@ The application detail is displayed.
 
 <img src="images/a-14-visualize-5.png">
 
-## Planning
+## 3. Planning
 
-
-### Assessment  List
+### 3.1 Assessment List
 
 1. Click on the `Assessment` tab and see the Application Assessment page.
 
@@ -97,7 +96,7 @@ Based on the above factors, you can priorities and strategize your applicaiton m
 <img src="images/a-15-plan-3.png">
 <img src="images/a-15-plan-4.png">
 
-### Assesment Details
+### 3.2 Assesment Details
 
 1. Click on any of the application from the Assessment list to see the detailed Assessment details.
 
@@ -119,7 +118,7 @@ Based on the above factors, you can priorities and strategize your applicaiton m
 <img src="images/a-16-detail-23.png">
 </details>
 
-### Inventory report
+### 3.3 Inventory report
 
 1. From the left menu, you can choose the `Inventory report` menu.
 
@@ -144,7 +143,7 @@ It will show the inventory report that contains various info about the applicati
 <img src="images/a-18-report-inventory-23.png">
 </details>
 
-### Technology report
+### 3.4. Technology report
 
 1. From the left menu, you can choose the `Technology report` menu.
 
@@ -152,7 +151,7 @@ It will show the Technology report of the application.
 
 <img src="images/a-17-report-tech.png">
 
-### Analysis report
+### 3.5. Analysis report
 
 1. From the left menu, you can choose the `Analysis report` menu.
 
@@ -170,7 +169,7 @@ It will show the Analysis report of the application.
 <img src="images/a-19-report-issues-8.png">
 </details>
 
-## Migrate
+## 4. Migrate
 
 1. Choose the `Migration Target`
 
