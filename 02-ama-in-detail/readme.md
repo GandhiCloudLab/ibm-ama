@@ -1,4 +1,4 @@
-# IBM Application Modernization Accelerator (AMA)
+# IBM Application Modernization Accelerator (AMA) in Detail
 
 IBM Application Modernization Accelerator helps you to discover, plan, prioritize, and package your on-premises workloads for rapid deployment on WebSphere Application Server and Liberty on public and private cloud environments.
 
