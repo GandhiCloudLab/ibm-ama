@@ -8,7 +8,7 @@ This documentation explains about AMA installation in detail.
 
 <img src="images/img-11.png">
 
-2. Unzip the downloaded file application-modernization-accelerator-local-4.2.0.zip
+2. Unzip the downloaded file `application-modernization-accelerator-local-4.2.0.zip`
 
 3. Goto the unziped folder.
 
@@ -68,19 +68,23 @@ Workspace get created as like this.
 
 You will get the below screen.  
 
-2. Select the `Source operating system`
-
-3. Click on `Open discovery tool`
+2. Click on `Open discovery tool`
 
 <img src="images/img-43.png">
 
+3. Select the `Source operating system`
+
+4. Click on `Open discovery tool`
+
+<img src="images/img-44.png">
+
 It will download the file `transformationadvisor-Linux_WS1.tgz` based on your selection.
 
-## 5. Run Discovery in your source environemtn
+## 5. Run Discovery in your source environment
 
 To install the discovery tool, log on to your application server with the application owner’s user credentials and complete the following steps:
 
-1. Copy the above .tgz file to to your application server
+1. Copy the above `xxxx.tgz` file to to your application server
 
 2. Untar the file
 
@@ -88,20 +92,20 @@ To install the discovery tool, log on to your application server with the applic
 tar xvfz transformationadvisor-Linux_WS1.tgz
 ```
 
-3. Goto the unziped folder.
+3. Goto the untarred folder.
 
 ```
 cd /Users/xxxxx/transformationadvisorxxxxx
 ```
 
-4. Run the below command to in the websphere for the discovery.
+4. Run the below command in the websphere for the discovery.
 
 ```
  ./bin/transformationadvisor -w /opt/IBM/WebSphere/AppServer -p Profile01 --ignore-missing-binary --ignore-missing-shared-library --no-upload
 ```
 Here 
-- -w is a WEBSPHERE_HOME_DIR
-- -p is a PROFILE_NAME
+- -w is WEBSPHERE_HOME_DIR
+- -p is PROFILE_NAME
 
 <img src="images/img-20.png">
 
