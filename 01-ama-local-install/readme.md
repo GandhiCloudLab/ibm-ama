@@ -1,6 +1,7 @@
 # IBM Application Modernization Accelerator (AMA) Installation
 
-This documentation explains about AMA installation in detail.
+This documentation gives step by step instructions to install IBM Application Modernization Accelerator in Linux/MacOS.
+
 
 ## 1. Download AMA
 
@@ -24,15 +25,15 @@ cd /Users/xxxxx/application-modernization-accelerator-local-4.2.0
 ./launch.sh
 ```
 
-2. Accept the license
+2. Accept the license by entering `1`
 
 <img src="images/img-12.png">
 
-3. Accept the Terms
+3. Accept the Terms by entering `1`
 
 <img src="images/img-13.png">
 
-4. Choose the Install AMA option (1)
+4. Choose the  `1) Installing Application Modernization Accelerator`
 
 <img src="images/img-14.png">
 
