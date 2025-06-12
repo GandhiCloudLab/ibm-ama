@@ -8,3 +8,6 @@ As of now, these documents are available.
 
 2. <a href="./02-ama-in-detail">AMA in detail</a>.
 
+3. <a href="./03-ama-in-EASeJ">AMA in EASeJ</a>.
+
+Application Modernization Accelerator (AMA) in EASeJ
